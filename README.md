@@ -1,4 +1,4 @@
-# Essential_Links
+# Essential-Links
 This repository is dedicated for gathering links of practices when using github.
 
 ## Github Guide
@@ -8,3 +8,4 @@ This repository is dedicated for gathering links of practices when using github.
 ## Markdown
 ### Emoji wiki
 [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark/wiki/Emoji)
+[WebpageFX/emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com/issues/429)
