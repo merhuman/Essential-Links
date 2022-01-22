@@ -11,4 +11,4 @@ rustup uninstall toolchain stable-x86_64-pc-windows-msvc
 rustup toolchain install stable-x86_64-pc-windows-gnu
 rustup default stable-x86_64-pc-windows-gnu
 ```
-Then rerun command <code>cargo run</code> and do the rest of instruction in Bevy setup link. If you encounter error while compiling again. Follow the link below instruction and try again.
+Then rerun command <code>cargo run</code> and do the rest of instruction in Bevy setup link. If you encounter error while compiling again, follow the link below instruction and try again.
