@@ -17,7 +17,7 @@ Then rerun command <code>cargo run</code> and do the rest of instruction in Bevy
 After compiling, to debug follow the setup in this link below to create launch.json configuration:
 [Debugging Rust with VS Code](https://dev.to/rogertorres/debugging-rust-with-vs-code-11dj)
 
-`
+```
 // File copied from MacOS X
 {
     "version": "0.2.0",
@@ -43,9 +43,9 @@ After compiling, to debug follow the setup in this link below to create launch.j
         }
     ]
 }
-`
+```
 or
-`
+```
 {
     "version": "0.2.0",
     "configurations": [
@@ -62,5 +62,5 @@ or
         }
     ]
 }
-`
+```
 
