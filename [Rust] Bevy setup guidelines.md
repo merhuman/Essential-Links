@@ -14,9 +14,10 @@ rustup default stable-x86_64-pc-windows-gnu
 
 Then rerun command <code>cargo run</code> and do the rest of instruction in Bevy setup link. If you encounter error while compiling again, follow the link below instruction and try again.
 
-After compiling, to debug follow the setup in this link below to create launch.json configuration:
+After compiling, to create launch.json for debugging in console follow this guidelines:
 [Debugging Rust with VS Code](https://dev.to/rogertorres/debugging-rust-with-vs-code-11dj)
 
+Here is the takeaway.
 ```
 // File copied from MacOS X
 {
