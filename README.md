@@ -15,3 +15,6 @@ This repository is dedicated for gathering links of practices when using github.
 ### Latex in github documentation
 * [Latex cheat sheet](https://joshua.smcvt.edu/undergradmath/undergradmath.pdf)
 * [Latex to png](https://latex2png.com/)
+
+### Bash
+* [Bash Completion](https://docs.docker.com/compose/completion/)
