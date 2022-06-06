@@ -1,0 +1,12 @@
+## General
+
+# Uninstall a package
+
+- brew unintall <package-name>
+- brew autoremove
+
+## Issues
+
+# Remove python and get bad interpreter with pip
+
+- python3 -m pip install --upgrade pip
