@@ -10,3 +10,20 @@
 # Remove python and get bad interpreter with pip
 
 - python3 -m pip install --upgrade pip
+
+
+# Remove a brew package (force option)
+
+Let's take git as an example for <package-name>
+Give another go at force removing the brewed version of git
+
+brew uninstall --force git
+Then cleanup any older versions and clear the brew cache
+
+brew cleanup -s git
+Remove any dead symlinks
+
+brew cleanup --prune-prefix
+Then try reinstalling git
+
+brew install git
